@@ -10,7 +10,7 @@ int main(int argc, char* argv[])
 	int number1, number2, number3;
 	char operator;
 	
-	printf("conflict test");
+	printf("release");
 	scanf("%d %c %d", &a, &operator, &b);
 	
 	switch (operator)
